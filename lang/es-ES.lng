@@ -3,37 +3,37 @@ Name=Español (Spanish)
 IsComplete=0
 
 [UpdateNotifyWindow]
-WindowTitle=Update
-NewVersionAvailableLabel=New version available
-NewVersionAvailableBox={appname} {0} is available! Would you like to download it now?
-DownloadBtn=Download
-CloseBtn=Close
+WindowTitle=Actualización
+NewVersionAvailableLabel=Nueva versión disponible
+NewVersionAvailableBox={appname} {0} está disponible! ¿Desea descargarla ahora?
+DownloadBtn=Descargar
+CloseBtn=Cerrar
 
 [AboutWindow]
-WindowTitle=About
-AppVersionLabel=Version
-CreditsPage=Credits
-ChangelogPage=Changelog
-LicensesPage=Licenses
+WindowTitle=Acerca de
+AppVersionLabel=Versión
+CreditsPage=Créditos
+ChangelogPage=Registro de cambios
+LicensesPage=Licencias
 
 [LoggerWindow]
 WindowTitle=Registros
-CopyToClipboardBtn=Copy
+CopyToClipboardBtn=Copiar
 
 [LicenseAgreementWindow]
-WindowTitle=License agreement
-AcceptBtn=Accept
-DeclineBtn=Decline
+WindowTitle=Acuerdo de licencia
+AcceptBtn=Aceptar
+DeclineBtn=Rechazar
 
 [General]
-MessageBox.CustomPackageWarn=Choosing an outdated or incompatible package may cause installation problems!{n}{n}It is recommended that you use the latest version available on the server instead.{n}{n}Continue anyway?
-MessageBox.SelectedPackageInvalid.Heading=The selected package is invalid or incompatible with your device.
-MessageBox.SelectedPackageInvalid.Message=Please select a package built for {0}.
+MessageBox.CustomPackageWarn=Elegir un paquete obsoleto o incompatible puede causar problemas de instalación!{n}{n}Se recomienda utilizar la última versión disponible en el servidor en su lugar.{n}{n}¿Continuar de todos modos?
+MessageBox.SelectedPackageInvalid.Heading=El paquete seleccionado no es válido o no es compatible con el dispositivo.
+MessageBox.SelectedPackageInvalid.Message=Seleccione un paquete para {0}.
 Message.ExtractingPackageToTemp=Extrayendo el archivo a una carpeta temporal...
 Message.DownloadingReqFiles=Descargando archivos requeridos...
-Label.StorageDrive=Storage drive
-Label.DeviceType=Device type
-FilePathTextPlaceholder=Click on the "{0}" button or drag and drop the file here.
+Label.StorageDrive=Unidad de almacenamiento
+Label.DeviceType=Tipo de dispositivo
+FilePathTextPlaceholder=Haga clic en el botón "{0}"  o arrastre y suelte el archivo aquí.
 ServerPackageInfoLabel=This is the recommended option. It can be used offline too, as long as the package has been previously downloaded.
 
 [MessageBox]
